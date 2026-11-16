@@ -1,0 +1,6 @@
+interface:
+  display_name: "西北师大化学博士论文格式"
+  short_description: "结合西北师大校规与现行国标，套用和检查化学博士论文格式"
+  default_prompt: "使用 $nwnu-doctor-thesis-format 按西北师大校规与现行国标检查或套用我的化学博士论文格式，保留原稿并列出待确认差异。"
+policy:
+  allow_implicit_invocation: true

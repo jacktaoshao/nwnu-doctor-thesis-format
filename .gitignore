@@ -1,0 +1,11 @@
+# Local documents and temporary outputs
+work/
+tmp/
+__pycache__/
+*.pyc
+*.docx
+*.pdf
+*.zip
+~$*
+.DS_Store
+Thumbs.db
